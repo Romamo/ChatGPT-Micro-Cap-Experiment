@@ -38,10 +38,12 @@
 
 | Metric | Value |
 |--------|-------|
-| Total Portfolio Value | $115.75 |
-| Total Return | 8.37% ($25.44) |
+| Total Portfolio Value | $127.72 |
+| Trade ROI | 8.37% ($25.44) |
+| Portfolio ROI | 27.72% |
 | Annualized Volatility | 45.68% |
 | Sharpe Ratio | 2.93 |
+| Invested Value (Holdings) | $115.75 |
 
 ## Performance Analysis
 
@@ -95,7 +97,28 @@ This chart shows the daily portfolio composition as a stacked bar chart, combini
 
 ## Risk Metrics
 
+### Risk Metrics Dashboard
+
+| Metric | Value | Description |
+|--------|-------|-------------|
+| Average Drawdown | -14.48% | Across All Positions |
+| Worst Drawdown | -61.22% | IINN |
+| Best Drawdown | 0.00% | FBIO |
+| High Drawdown Stocks | 3 | >10% Drawdown |
+| Sortino Ratio | 0.22 | Downside Risk-Adjusted Return |
+| Max Consecutive Wins | 3 | Trading Days |
+| Max Consecutive Losses | 3 | Trading Days |
+
 ## Win/Loss Analysis
+
+### Win/Loss Metrics Dashboard
+
+| Metric | Value | Description |
+|--------|-------|-------------|
+| Win Rate | 72.7% | 8/11 Positions |
+| Average Win | 16.1% | Profitable Positions |
+| Average Loss | -14.4% | Losing Positions |
+| Best Position | 41.2% | ACTU |
 
 ### Win/Loss Distribution
 
@@ -118,6 +141,7 @@ This chart shows the daily portfolio composition as a stacked bar chart, combini
 | FDMT | 2.0 | $14.70 | $0.00 | $13.94 | -5.17% | $-0.76 |
 | IINN | 32.0 | $45.98 | $37.66 | $0.00 | -18.09% | $-8.32 |
 | AZTR | 55.0 | $13.75 | $11.00 | $0.00 | -20.00% | $-2.75 |
+| **TOTAL **| **140.0 **| **$303.92 **| **$213.61 **| **$115.75 **| **8.37% **| **$25.44 **|
 
 ### Currently Held Stocks
 
@@ -127,9 +151,10 @@ This chart shows the daily portfolio composition as a stacked bar chart, combini
 | FBIO | 3.0 | $10.45 | $0.00 | $10.77 | 3.06% | $0.32 |
 | ATYR | 12.0 | $62.48 | $0.00 | $63.72 | 1.98% | $1.24 |
 | FDMT | 2.0 | $14.70 | $0.00 | $13.94 | -5.17% | $-0.76 |
+| **TOTAL **| **21.0 **| **$110.71 **| **$0.00 **| **$115.75 **| **4.55% **| **$5.04 **|
 
 ## Footer
 
-ChatGPT Micro Cap Experiment | Professional Financial Report | Generated on 2025-09-10 22:43:55
+ChatGPT Micro Cap Experiment | Professional Financial Report | Generated on 2025-09-11 11:36:16
 
 This report is automatically generated and should be reviewed by a qualified financial professional before making investment decisions.
